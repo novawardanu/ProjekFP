@@ -1,0 +1,31 @@
+DoctorID,NamaDokter,Spesialist,Rating,NomorTelepon
+1,Dr. Andi Sutanto,dokter umum,5,08123456789
+2,Dr. Lina Wijaya,dokter gigi,4,08234567890
+3,Dr. Ahmad Pratama,dokter spesialis kulit,4.5,08345678901
+4,Dr. Fitria Cahaya,dokter anak,4.8,08456789012
+5,Dr. Budi Santoso,dokter bedah,4.9,08567890123
+6,Dr. Siti Rahayu,dokter penyakit dalam,4.6,08678901234
+7,Dr. Johan Setiawan,dokter jantung,4.7,08789012345
+8,Dr. Lestari Widjaya,dokter mata,4.3,08890123456
+9,Dr. Faisal Rahman,dokter saraf,4.5,08901234567
+10,Dr. Dina Kusuma,dokter psikiater,4.8,09012345678
+11,Dr. Reza Nugroho,dokter tht,4.6,09123456789
+12,Dr. Amalia Susanto,dokter rehabilitasi medik,4.4,09234567890
+13,Dr. Surya Pratama,dokter gizi,4.7,09345678901
+14,Dr. Tiara Putri,dokter kandungan,4.9,09456789012
+15,Dr. Dharma Wijaya,dokter ortodonti,4.5,09567890123
+16,Dr. Maya Dewi,dokter syaraf,4.7,09678901234
+17,Dr. Ilham Surya,dokter urologi,4.6,09789012345
+18,Dr. Sarah Pratiwi,dokter endokrinologi,4.4,09890123456
+19,Dr. Dian Purnama,dokter bedah plastik,4.8,09901234567
+20,Dr. Bambang Susanto,dokter gigi anak,4.3,01012345678
+21,Dr. Rini Wijaya,dokter jantung anak,4.6,01123456789
+22,Dr. Aditya Nugraha,dokter tht anak,4.5,01234567890
+23,Dr. Anisa Pratiwi,dokter mata anak,4.7,01345678901
+24,Dr. Wawan Setiawan,dokter kandungan anak,4.4,01456789012
+25,Dr. Agus Salim,dokter jiwa anak,4.6,01567890123
+26,Dr. Putri Azalea,dokter mata,4.9,01678901234
+27,Dr. Bima Wirawan,dokter bedah,4.8,01789012345
+28,Dr. Aditya Nugroho,dokter anestesi,4.7,01890123456
+29,Dr. Tasya Dewi,dokter kulit,4.6,01901234567
+30,Dr. Dika Firmansyah,dokter gigi,4.5,02012345678

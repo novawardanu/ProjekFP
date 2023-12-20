@@ -1,0 +1,26 @@
+MedicineID,NamaObat,Deskripsi,BanyakStock,DataExpire,Harga
+1,Parasetamol,  Untuk demam dan meredakan nyeri,500,2024-06-30,5000
+2,Ibuprofen,    Obat pereda nyeri dan anti-inflamasi,300,2023-12-15,7500
+3,Amoksisilin,  Antibiotik untuk infeksi,200,2023-11-30,6000
+4,Omeprazol,    Untuk masalah lambung,150,2024-02-28,8500
+5,Loratadin,    Untuk alergi dan demam belerang,400,2023-09-25,4000
+6,Ranitidin,    Untuk masalah maag dan refluks asam,250,2024-01-10,7000
+7,Aspirin,      Penghilang rasa sakit dan anti-inflamasi,600,2024-03-20,3000
+8,Metformin,    Untuk diabetes tipe 2,100,2023-08-18,5500
+9,Atorvastatin, Untuk kolesterol tinggi,120,2024-04-05,9000
+10,Cetirizine,  Untuk alergi,350,2023-10-12,4800
+11,Losartan,    Untuk tekanan darah tinggi,180,2024-07-08,6200
+12,Simvastatin, Untuk kolesterol tinggi,220,2023-12-30,8800
+13,Azitromisin, Antibiotik untuk infeksi bakteri,80,2024-05-15,7000
+14,Metronidazol,Antibiotik untuk infeksi tertentu,90,2023-11-05,6500
+15,Ciprofloksasin,Antibiotik untuk berbagai infeksi,70,2023-09-20,7200
+16,Warfarin,    Antikoagulan untuk mencegah pembekuan darah,200,2024-01-28,5800
+17,Deksametason,Steroid untuk peradangan,40,2024-06-12,5300
+18,Prednison,   Steroid untuk reaksi alergi,60,2023-10-30,4800
+19,Asiklovir,   Antivirus untuk infeksi herpes,110,2024-02-10,7400
+20,Fluoksetin,  Untuk depresi dan kecemasan,130,2023-07-25,6600
+21,Tetrasislin, Antibiotik untuk berbagai infeksi,100,2024-04-15,6800
+22,Albuterol,   Untuk asma dan COPD,240,2023-12-18,8000
+23,Morfin,      Penghilang rasa sakit untuk nyeri hebat,30,2024-07-30,10000
+24,Diazepam,    Untuk kecemasan dan kekakuan otot,50,2023-11-08,9200
+25,Hidroklorotiazid,Diuretik untuk tekanan darah tinggi,190,2024-05-05,5300

@@ -1,0 +1,36 @@
+TransactionID (PK), NamaPasien, NamaObat, Kuantitas, TotalHarga, Tanggal
+1,Maria,Paracetamol,2,20000,2023-10-05
+2,John,Amoxicillin,1,15000,2023-11-15
+3,Lisa,Ibuprofen,3,30000,2023-12-20
+4,Michael,Vitamin C,4,40000,2024-01-08
+5,Sophia,Aspirin,1,10000,2023-09-30
+6,David,Cetrizin,2,25000,2023-07-22
+7,Emma,Vitamin D,3,45000,2024-02-14
+8,Olivia,Insulin,2,20000,2023-11-10
+9,Ethan,Probiotik,5,50000,2023-12-05
+10,Isabella,Chlorophyll,1,12000,2024-03-30
+11,Aiden,Calcium,2,22000,2023-06-18
+12,Liam,Magnesium,1,18000,2024-05-12
+13,Noah,Zinc,3,30000,2023-08-07
+14,James,Amoxicillin,4,20000,2024-01-25
+15,Sophia,Vitamin C,2,30000,2023-10-10
+16,William,Cetrizin,1,15000,2024-04-15
+17,Oliver,Insulin,3,27000,2023-12-30
+18,Benjamin,Probiotik,2,25000,2024-06-20
+19,Elijah,Magnesium,1,18000,2023-09-05
+20,Lucas,Zinc,2,30000,2024-02-28
+21,Mason,Vitamin D,3,45000,2023-11-18
+22,Logan,Calcium,1,10000,2024-04-02
+23,Alexander,Chlorophyll,4,48000,2023-07-15
+24,Daniel,Magnesium,2,30000,2024-01-05
+25,Henry,Zinc,1,15000,2023-10-28
+
+
+Danu,19,4,29600,2023-12-10
+Pras,Konsultasi Dokter,2,150000,2023-12-10
+Danu,4,4,34000,2023-12-10
+Pras,Konsultasi Dokter,2,150000,2023-12-10
+Danu,22,2,16000,2023-12-13
+rann,Konsultasi Dokter,1,250000,2023-12-13
+Danu,12,2,17600,2023-12-16
+Danu,Konsultasi Dokter,1,250000,2023-12-16
